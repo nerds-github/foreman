@@ -48,7 +48,7 @@
     "eslint-plugin-spellcheck": "0.0.17",
     "graphql": "^15.5.0",
     "path-browserify": "^1.0.1",
-    "prettier": "^1.19.1",
+    "prettier": "^3.3.3",
     "pretty-format": "26.6.2",
     "react-dnd-test-backend": "^9.4.0",
     "redux-mock-store": "^1.2.2",
