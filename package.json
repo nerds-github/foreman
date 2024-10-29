@@ -20,7 +20,7 @@
     "analyze": "./script/webpack-analyze"
   },
   "dependencies": {
-    "@module-federation/utilities": "^1.7.0",
+    "@module-federation/utilities": "^3.1.15",
     "@theforeman/vendor": "^13.1.0",
     "graphql-tag": "^2.11.0",
     "intl": "~1.2.5",
