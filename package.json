@@ -35,7 +35,7 @@
     "@theforeman/eslint-plugin-rules": "^13.1.0",
     "@theforeman/test": "^13.1.0",
     "@theforeman/vendor-dev": "^13.1.0",
-    "@types/jest": "<27.0.0",
+    "@types/jest": "29.5.13",
     "argv-parse": "^1.0.1",
     "babel-eslint": "^10.0.0",
     "babel-loader": "^8.0.0",
