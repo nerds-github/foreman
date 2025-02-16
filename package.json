@@ -44,7 +44,7 @@
     "cross-env": "^5.2.0",
     "css-loader": "^6.8.1",
     "dotenv": "^5.0.0",
-    "eslint": "^6.7.2",
+    "eslint": "^9.19.0",
     "eslint-plugin-spellcheck": "0.0.17",
     "graphql": "^15.5.0",
     "path-browserify": "^1.0.1",
